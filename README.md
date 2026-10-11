@@ -7,6 +7,12 @@ and `cyclonedx-py` separately, matching the polyglot-repo framing this
 workspace's own `depaudit` already established for vulnerability
 scanning.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
